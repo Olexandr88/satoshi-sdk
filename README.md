@@ -3,7 +3,7 @@
 Satoshi Protocol SDK, a comprehensive toolkit for developers to integrate and interact with the Satoshi Protocol, a DeFi platform on the blockchain.
 
 [![npm version](https://img.shields.io/npm/v/your-package.svg?color=%23DFE2E4)](https://www.npmjs.com/package/satoshi-sdk)
-[![license](https://img.shields.io/github/license/your-username/your-repository.svg?color=%23DFE2E4)](https://github.com/your-username/your-repository/blob/main/LICENSE)
+[![license](https://img.shields.io/github/license/Satoshi-Protocol/satoshi-sdk.svg?color=%23DFE2E4)](https://github.com/Satoshi-Protocol/satoshi-sdk/blob/main/LICENSE)
 [![downloads](https://img.shields.io/npm/dm/your-package.svg?color=%23DFE2E4)](https://www.npmjs.com/package/satoshi-sdk)
 
 ## Documentation
